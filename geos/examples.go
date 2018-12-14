@@ -11,7 +11,7 @@ import (
 	"math"
 	"os"
 
-	"code.google.com/p/draw2d/draw2d"
+	draw2d "gopkg.in/llgcode/draw2d.v1"
 
 	"github.com/paulsmith/gogeos/geos"
 )
